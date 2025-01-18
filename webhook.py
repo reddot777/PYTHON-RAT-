@@ -328,6 +328,11 @@ with open('send.py', 'r') as file:
     exec(file.read())
 
 
+# I TAKE NO RESPONSIBLITY AGAIN 
+
+# CODED BY @reddot777 on github
+
+
 
 
 
