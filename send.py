@@ -34,4 +34,4 @@ for file in files_to_check:
         pass
 
 
-# THIS IS THE SCRIPT THAT WILL CHECK FIRSTLY IF THE FILE IN " files_to_check " exist and then gonna send it to your discord webhook and they gonna be deleted automaticly using " os " library.
+# THIS IS THE SCRIPT THAT WILL CHECK FIRSTLY IF THE FILE IN " files_to_check " exist and then gonna send it to your discord webhook and they gonna be deleted automaticly using "os.remove(file)"
